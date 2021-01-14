@@ -1,1 +1,1 @@
-# MIdiagRDD
+R-Package 'MIdiagRDD': Diagnostic Tool by Multiple Imputation for Regression Discontinuity Designs. To use this package, click "Code and Download ZIP." After downloading the package, set the working directory in R, and read R-Package MIdiagRDD using R-function source. See "ReadMe.pdf" for detail.
