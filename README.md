@@ -1,1 +1,1 @@
-R-Package 'MIDD': Diagnostic Tool by Multiple Imputation for Regression Discontinuity Designs. To use this package, click "Code and Download ZIP." After downloading the package, set the working directory in R, and read R-Package MIDD using R-function source. See "ReadMe.pdf" for detail.
+R-Package 'MIRDD': Diagnostic Tool by Multiple Imputation for Regression Discontinuity Designs. To use this package, click "Code and Download ZIP." After downloading the package, set the working directory in R, and read R-Package MIRDD using R-function source. See "ReadMe.pdf" for detail.
