@@ -1,7 +1,7 @@
 #' MIRDD: Multiple Imputation Regression Discontinuity Design
 #'
-#' @importFrom Amelia amelia
-#' @importFrom rdrobust rdbwselect rdrobust
+#' @import Amelia
+#' @import rdrobust
 #' @importFrom stats na.omit sd var qt lm density coef
 #' @importFrom graphics layout hist abline plot par lines points
 #' @export
