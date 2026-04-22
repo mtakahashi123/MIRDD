@@ -1,0 +1,20 @@
+Package: MIRDD
+Title: Diagnostic Tool by Multiple Imputation for Regression
+        Discontinuity Designs
+Version: 0.1.0
+Authors@R: person("Masayoshi", "Takahashi", 
+                  email = "mtakahashi615@g.chuo-u.ac.jp", 
+                  role = c("aut", "cre"))
+Description: Estimates local average treatment effects based on regression 
+    discontinuity designs (RDD) and multiple imputation regression 
+    discontinuity designs (MIRDD). It provides diagnostic tools for RDD 
+    by comparing results with those from MIRDD, as proposed in 
+    Takahashi (2023) <doi:10.1080/03610918.2021.1960374>.
+License: GPL-3
+Encoding: UTF-8
+Imports: Amelia, rdrobust, stats, graphics
+RoxygenNote: 7.3.3
+NeedsCompilation: no
+Packaged: 2026-03-14 08:52:40 UTC; masay
+Author: Masayoshi Takahashi [aut, cre]
+Maintainer: Masayoshi Takahashi <mtakahashi615@g.chuo-u.ac.jp>
