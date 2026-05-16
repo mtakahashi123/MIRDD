@@ -1,0 +1,10 @@
+bibentry(bibtype = "Article",
+         title = "MIRDD: An R package for multiple imputation regression discontinuity design",
+         author = person("Masayoshi", "Takahashi"),
+         journal = "SoftwareX",
+         year = "2026",
+         volume = "34",
+         number = "102707",
+         pages = "1-6",
+         doi = "10.1016/j.softx.2026.102707",
+         textVersion = "Takahashi, M. (2026). MIRDD: An R package for multiple imputation regression discontinuity design. SoftwareX 34 (102707): 1-6. doi:10.1016/j.softx.2026.102707")
